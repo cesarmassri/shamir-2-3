@@ -1,4 +1,4 @@
-# shamir-2-3
+# shamir2-3
 
 Shamir 2-3
 
